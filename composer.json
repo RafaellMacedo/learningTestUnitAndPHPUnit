@@ -1,5 +1,5 @@
 {
-    "name": "vendor/learning",
+    "name": "vendor/cursotest",
     "authors": [
         {
             "name": "Rafael Macedo",
@@ -10,6 +10,6 @@
         "phpunit/phpunit": "^9.5",
         "phpstan/phpstan": "^0.12.93",
         "phpmd/phpmd": "^2.10",
-        "squizlabs/php_codesniffer": "*"
+        "squizlabs/php_codesniffer": "^3.6"
     }
 }
